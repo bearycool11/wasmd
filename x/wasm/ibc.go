@@ -1,14 +1,3 @@
-package main
-package keeper
-package v2_test
-package v2_test
-package ibc
-package main
-package keeper
-package v2_test
-package v2_test
-package ibc
-package main
 package wasm
 package sdk
 package bitcore
